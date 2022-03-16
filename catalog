@@ -1,0 +1,14 @@
+{
+    "projectOwner": "TeamAwesomeness",
+    "projectName": "SmartFarmingFreezingAlert",
+    "broker": {
+        "url": "test.mosquitto.org",
+        "port": 1883,
+        "topic": "",
+        "telegram_token": {},
+        "thingspeak_channels_url": ""
+    },
+    "UsersList": [],
+    "services": [],
+    "Last_catalog_update": 1625504263.0867345
+}
